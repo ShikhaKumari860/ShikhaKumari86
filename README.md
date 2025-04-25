@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **DSA,System Design,Backend**
 
-- 🌎 I’m looking to collaborate on **FaceXpress**
-
-- 🤝 I’m looking for help with **ZerodhaX**
-
 - 👨‍💻 All of my projects are available at [ShikhaKumari860](ShikhaKumari860)
 
 - 💬 Ask me about **JAVA,DSA,HTML,CSS,JavaScript**
