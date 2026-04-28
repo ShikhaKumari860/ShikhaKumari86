@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [ShikhaKumari860](ShikhaKumari860)
 
-- 💬 Ask me about **JAVA,DSA,HTML,CSS,JavaScript**
+- 💬 Ask me about **JAVA,DSA,HTML,CSS,JavaScript,React.js,Node.js,Express.js,MongoDB**
 
 - 📫 How to reach me **Shikhasingh62819@gmail.com**
 
